@@ -1,6 +1,6 @@
 # ecommerce
 
-A new Flutter project.
+its a flutter project to food commerce you can order the food you need with different payment methods and more features to have 
 
 ## Getting Started
 
